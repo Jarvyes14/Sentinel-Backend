@@ -1,0 +1,27 @@
+# Red HTTP y streaming
+requests==2.32.3
+sseclient-py==1.8.0
+
+# Data science
+numpy==1.26.4
+pandas==2.3.0
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# TensorFlow
+tensorflow-cpu==2.19.0
+keras==3.5.0
+
+# Visualización (si decides usar matplotlib en otro punto)
+matplotlib==3.7.5
+
+# Web API
+Flask==2.3.3
+click==8.1.7
+gunicorn==21.2.0
+
+# Interfaz por terminal
+questionary==2.1.0
+
+# Utilidades internas
+typing-extensions==4.12.1
